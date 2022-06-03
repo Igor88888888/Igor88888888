@@ -1,4 +1,4 @@
-### Добро пожаловать в мой репозиторий! 👋
+###  <h1 align="center">  Добро пожаловать в мой репозиторий! 👋
 
 <!--
 **Igor88888888/Igor88888888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
